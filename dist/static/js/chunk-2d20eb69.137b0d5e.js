@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20eb69"],{b115:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"kef"},[n("van-nav-bar",{attrs:{title:"客服","left-text":"返回","left-arrow":""},on:{"click-left":t.back}})],1)},c=[],r={name:"Kef",data:function(){return{}},methods:{back:function(){this.$router.go(-1)}}},o=r,s=n("2877"),i=Object(s["a"])(o,a,c,!1,null,"34e6c1dc",null);e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d20eb69.137b0d5e.js.map
